@@ -77,7 +77,7 @@
             </p>
         </div>
 
-        <div class="alert hidden"></div>
+        <div class="alert" style="display: block;"></div>
 
         <div class="row">
             <div class="admin-settings col-xs-12 col-sm-5">
